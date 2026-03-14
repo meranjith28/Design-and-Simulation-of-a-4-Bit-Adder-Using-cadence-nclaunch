@@ -101,7 +101,6 @@ endmodule
 
 ### Simulation Waveforms
 
-file:///C:/Users/acer/OneDrive/Desktop/op7.jpeg
 
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
